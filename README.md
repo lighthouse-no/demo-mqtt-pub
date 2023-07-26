@@ -1,6 +1,6 @@
 # MQTT Publisher Example App
 
-A simple Rust-based app that publishes messages to the public MQTT server at `tcp://broker.emqx.io:1883`
+A simple proof-of-concept app that publishes messages to the public MQTT server at `tcp://broker.emqx.io:1883`
 
 This app works with in conjunction with a corresponding [subscriber app](https://github.com/lighthouse-no/demo-mqtt-sub).
 
