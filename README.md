@@ -13,3 +13,6 @@ This app works with in conjunction with a corresponding [subscriber app](https:/
 1. Start publisher `./target/release/mqtt-pub`
 
 The publisher sends 5 messages on the alternating MQTT topics `"rust/mqtt"`, and `"rust/test"`, then terminates.
+
+-----
+&copy; 2023 Lighthouse Consulting AS
