@@ -1,0 +1,7 @@
+---
+applications:
+- name: demo-mqtt-pub
+  memory: 4096M
+  health-check-type: process
+  buildpacks:
+  - https://github.com/lighthouse-no/cf-buildpack-rust
